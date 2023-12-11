@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/src/java/Controller/ProfileServlet.java</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/home.jsp</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/_include/css/main.css</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/profile.jsp</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/src/java/Controller/FileUploadDBServlet.java</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/src/java/Controller/hi.java</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/src/java/Controller/fileServelet.java</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/src/java/Controller/LoginServlet.java</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/admin/User.jsp</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/registerForm.jsp</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/login.jsp</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/_include/css/fancybox/jquery.fancybox.css</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/_include/css/jquery.dataTables.min.css</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/signup.jsp</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/src/java/Controller/UpdateProfileServlet.java</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/newjsp.jsp</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/index.html</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/admin/update_status.jsp</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/src/java/Controller/StatusCountServlet.java</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/src/java/Controller/register.java</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/admin/view_docs.jsp</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/src/java/Controller/ApplicationStatusServlet.java</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/dashboard.jsp</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/admin/admin_dashboard.jsp</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/src/java/Controller/DownloadServlet.java</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/_include/css/fonts.css</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/download.jsp</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/applicationStatus.jsp</file>
+            <file>file:/C:/Users/nzima/OneDrive/Documents/NetBeansProjects/WebApplication1/web/forgotPass.jsp</file>
+        </group>
+    </open-files>
+</project-private>
